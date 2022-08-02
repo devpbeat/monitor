@@ -1,4 +1,4 @@
-# Panel de control - Las Ardenas S.A
+# Panel de control
 
 
 # Instalación de ambiente de desarrollo
