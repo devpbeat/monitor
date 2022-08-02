@@ -36,12 +36,6 @@ Este proceso deberá actualizar todos los datos de las metricas existentes para 
 4. Metrics creator endpoint = '/metrics_creator'
 5. Get all metric data = '/metrics/all'
 
-
-# Para datos de ejemplo en json, y ver el diagrama ER acceder al siguiente link
-
-# Agradecimientos 
-
-    A todos los desarrolladores de Las Ardenas S.A. 
     
 
 
