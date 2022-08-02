@@ -1,0 +1,8 @@
+/frontend/node_modules/
+/.env.local
+/backend/data/
+.idea
+/backend/*.json
+/backend/app/*.json
+/backend/static/
+/backend/staticfiles/
