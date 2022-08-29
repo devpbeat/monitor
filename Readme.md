@@ -1,4 +1,4 @@
-# Panel de control - Las Ardenas S.A
+# Panel de control 
 
 
 # Instalación de ambiente de desarrollo
@@ -41,7 +41,7 @@ Este proceso deberá actualizar todos los datos de las metricas existentes para 
 
 # Agradecimientos 
 
-    A todos los desarrolladores de Las Ardenas S.A. 
+    A todos los desarrolladores que conformaron el equipo
     
 
 
